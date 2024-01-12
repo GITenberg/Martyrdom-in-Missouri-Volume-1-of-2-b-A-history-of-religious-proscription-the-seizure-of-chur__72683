@@ -1,0 +1,30 @@
+_repo: Martyrdom-in-Missouri-Volume-1-of-2-b-A-history-of-religious-proscription-the-seizure-of-chur__72683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leftwich, William M.
+    gutenberg_agent_id: '56775'
+    url: http://www.gutenberg.org/2009/agents/56775
+description: ''
+gutenberg_issued: '2024-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72683'
+language: en
+pgterms:marc905: 20070217224839leftwich
+pgterms:marc906: '1870'
+pgterms:marc907: US
+production_note: Richard Tonsing, Bryan Ness, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aSt. Louis :$bS.W. Book & Pub. Co., $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Martyrdom in Missouri, Volume 1 (of 2) : $b A history of religious proscription,
+  the seizure of churches, and the persecution of ministers of the Gospel, in the
+  state of Missouri during the late Civil War, and under the "Test Oath" of the new
+  Constitution.'
+url: http://www.gutenberg.org/ebooks/72683
